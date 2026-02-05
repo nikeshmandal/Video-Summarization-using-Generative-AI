@@ -1,0 +1,7 @@
+streamlit
+openai
+youtube_transcript_api
+PyMuPDF
+reportlab
+python-docx
+tiktoken
